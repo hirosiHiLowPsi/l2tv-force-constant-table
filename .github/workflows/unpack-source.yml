@@ -1,0 +1,24 @@
+name: Unpack source archive
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack committed source archive
+        run: |
+          unzip -o l2tv-force-constant-table-source-upload.zip
+          rm l2tv-force-constant-table-source-upload.zip
+      - name: Commit extracted source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Publish L2TV FORCE RATE chart constant table source"
+          git push
