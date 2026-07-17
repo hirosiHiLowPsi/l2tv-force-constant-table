@@ -1,6 +1,9 @@
 name: Unpack source archive
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -8,6 +11,7 @@ permissions:
 
 jobs:
   unpack:
+    if: ${{ hashFiles('l2tv-force-constant-table-source-upload.zip') != '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
