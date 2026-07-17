@@ -1,0 +1,40 @@
+{
+  "name": "l2tv-force-constant-table",
+  "version": "0.1.0",
+  "private": true,
+  "description": "BMSTable-compatible L2TV FORCE RATE chart constant table",
+  "scripts": {
+    "prebuild": "node scripts/generate-css.mjs",
+    "predev": "node scripts/generate-css.mjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "validate:data": "python scripts/validate-force-constant-table.py"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "daisyui": "^5.5.19",
+    "next": "15.3.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.9",
+    "jsdom": "^29.0.2",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^4.1.3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "L2TV FORCE RATE 譜面定数表",
+  "symbol": "L",
+  "dataUrl": "local:data/force-constant-table.json",
+  "siteDescription": "L2TV FORCE RATEの譜面定数をL1からL27に分類したBMS難易度表です。",
+  "lightTheme": "light",
+  "darkTheme": "dark",
+  "darkMode": "system",
+  "levelOrder": [
+    "1", "2", "3", "4", "5", "6", "7", "8", "9",
+    "10", "11", "12", "13", "14", "15", "16", "17", "18",
+    "19", "20", "21", "22", "23", "24", "25", "26", "27"
+  ],
+  "tableStyle": {
+    "maxWidth": 1440,
+    "stripe": true,
+    "hover": true
+  },
+  "columns": [
+    { "header": "Lv", "type": "level", "width": "5rem", "align": "center", "nowrap": true },
+    { "header": "Title", "type": "link", "property": "title", "url": "{{url}}" },
+    { "header": "Artist", "type": "text", "property": "artist", "width": "18rem" },
+    { "header": "定数", "type": "text", "property": "constant", "width": "6rem", "align": "center", "nowrap": true },
+    { "header": "元表", "type": "text", "property": "source_table", "width": "11rem", "align": "center", "nowrap": true },
+    { "header": "元難易度", "type": "text", "property": "source_level", "width": "7rem", "align": "center", "nowrap": true },
+    { "header": "差分", "type": "badge", "label": "DL", "url": "{{url_diff}}", "width": "5rem", "align": "center" }
+  ]
+}
