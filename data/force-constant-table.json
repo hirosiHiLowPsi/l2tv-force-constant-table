@@ -4373,7 +4373,7 @@
     "md5": "8faa0fc06a989fdb3f153e38ac7efddd",
     "url": "http://www.dropbox.com/s/14sbfaq70lsr2ev/%5BFeryquitous%5DStrahv.zip?dl=1",
     "url_diff": "",
-    "constant": "8.55",
+    "constant": "8.54",
     "source_table": "発狂BMS難易度表",
     "source_level": "★9"
   },
@@ -4703,7 +4703,7 @@
     "md5": "7f4cc6d51435b913729aaf1e44ea8601",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=74",
     "url_diff": "http://sdrv.ms/155fPGx",
-    "constant": "9.22",
+    "constant": "9.21",
     "source_table": "発狂BMS難易度表",
     "source_level": "★9"
   },
@@ -4775,17 +4775,6 @@
   },
   {
     "level": "9",
-    "title": "niKu [0209Another]",
-    "artist": "TOMA v.s. DJ Saw-Low / respect for 29",
-    "md5": "08d5817a8d2c80c30528584655acd19e",
-    "url": "http://scytheleg.sakura.ne.jp/",
-    "url_diff": "http://iroirokiba.web.fc2.com/bms.html",
-    "constant": "9.36",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★9"
-  },
-  {
-    "level": "9",
     "title": "x-Aria -afother-",
     "artist": "ridis / obj:black train",
     "md5": "1d90de062e1fe4c5216c290d1592e062",
@@ -4808,6 +4797,17 @@
   },
   {
     "level": "9",
+    "title": "niKu [0209Another]",
+    "artist": "TOMA v.s. DJ Saw-Low / respect for 29",
+    "md5": "08d5817a8d2c80c30528584655acd19e",
+    "url": "http://scytheleg.sakura.ne.jp/",
+    "url_diff": "http://iroirokiba.web.fc2.com/bms.html",
+    "constant": "9.37",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★9"
+  },
+  {
+    "level": "9",
     "title": "res extensa [ANOTHER]",
     "artist": "adamthix",
     "md5": "62e9b22c47db89eb2abb59c80635a506",
@@ -4819,22 +4819,22 @@
   },
   {
     "level": "9",
-    "title": "★LittlE HearTs★ (AFOTHER)",
-    "artist": "ねこみみ魔法使い / obj: black train",
-    "md5": "393260af90f9df91eef6f44947986b30",
-    "url": "http://necoco.2-d.jp/",
-    "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
-    "constant": "9.38",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★9"
-  },
-  {
-    "level": "9",
     "title": "E reviver -imaging you- (MANIAC)",
     "artist": "美月 正 (obj.mp)",
     "md5": "3d6c4e9dd1c87def0e3e261204da58ad",
     "url": "http://web.archive.org/web/20111230023613/http://tsubu.ath.cx/~ssry/music.html",
     "url_diff": "http://ibizatrance.nomaki.jp/",
+    "constant": "9.39",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★9"
+  },
+  {
+    "level": "9",
+    "title": "★LittlE HearTs★ (AFOTHER)",
+    "artist": "ねこみみ魔法使い / obj: black train",
+    "md5": "393260af90f9df91eef6f44947986b30",
+    "url": "http://necoco.2-d.jp/",
+    "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
     "constant": "9.39",
     "source_table": "発狂BMS難易度表",
     "source_level": "★9"
@@ -4868,7 +4868,7 @@
     "md5": "a718de9a2cd2f88deafbd40f5929abb4",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=104",
     "url_diff": "http://akred.web.fc2.com/baecon/suffruti_bf.bms",
-    "constant": "9.43",
+    "constant": "9.44",
     "source_table": "発狂BMS難易度表",
     "source_level": "★10"
   },
@@ -5099,7 +5099,7 @@
     "md5": "47de06762f16d164426e3197c5de967c",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=96",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up4772.zip",
-    "constant": "9.90",
+    "constant": "9.91",
     "source_table": "発狂BMS難易度表",
     "source_level": "★10"
   },
@@ -5221,6 +5221,17 @@
     "url": "http://iimode-do.jp/?p=57",
     "url_diff": "https://web.archive.org/web/20190909204224/http://sabosabun.tank.jp/sabun/L99%20(BGA%20Remake)%20sabun.zip",
     "constant": "10.21",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★10"
+  },
+  {
+    "level": "10",
+    "title": "Little \"Sister\" Bitch",
+    "artist": "t+pazolite",
+    "md5": "55252fa3daaeb2dff8cfc3204c647fdf",
+    "url": "http://sunaneko.iptime.org/BMS_Library/Little%20%ef%bc%82Sister%ef%bc%82%20Bitch%20%28by%20t%2bpazolite%29.rar",
+    "url_diff": "http://page.freett.com/lobsak/hokan1.html",
+    "constant": "10.23",
     "source_table": "発狂BMS難易度表",
     "source_level": "★10"
   },
@@ -5451,7 +5462,7 @@
     "md5": "9d02e77635f790c12d333d3af4ce27d2",
     "url": "https://drive.google.com/file/d/1NLcQHynITXMc1pgqARaVtgw6vsM1HmLL/view?usp=drive_link",
     "url_diff": "http://flowermaster.web.fc2.com/",
-    "constant": "10.63",
+    "constant": "10.64",
     "source_table": "発狂BMS難易度表",
     "source_level": "★10"
   },
@@ -5512,17 +5523,6 @@
   },
   {
     "level": "10",
-    "title": "Halcyon [PLANETUNE]",
-    "artist": "xi / obj:ねぷ子",
-    "md5": "0a42f6e6ac736e6f500c6342810fd637",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=65",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up1360.rar",
-    "constant": "10.73",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★10"
-  },
-  {
-    "level": "10",
     "title": "Under The Sunshine -ANOTHER7-",
     "artist": "dai / obj-7RIN",
     "md5": "12add53b0ef4cb64a6187fbc94909642",
@@ -5531,6 +5531,17 @@
     "constant": "10.73",
     "source_table": "発狂BMS難易度表",
     "source_level": "★8"
+  },
+  {
+    "level": "10",
+    "title": "Halcyon [PLANETUNE]",
+    "artist": "xi / obj:ねぷ子",
+    "md5": "0a42f6e6ac736e6f500c6342810fd637",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=237&event=65",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up1360.rar",
+    "constant": "10.74",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★10"
   },
   {
     "level": "10",
@@ -5594,7 +5605,7 @@
     "md5": "33e3f66447a3639a2bb6b7aa5889fbfd",
     "url": "http://web.archive.org/web/20060616192941/http://succinicacid.hp.infoseek.co.jp/BMS.html",
     "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
-    "constant": "10.80",
+    "constant": "10.81",
     "source_table": "発狂BMS難易度表",
     "source_level": "★9"
   },
@@ -5671,7 +5682,7 @@
     "md5": "5ee91f76ddb49e84dd12b71e17683ace",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=74",
     "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2388.zip",
-    "constant": "10.90",
+    "constant": "10.91",
     "source_table": "発狂BMS難易度表",
     "source_level": "★10"
   },
@@ -5688,17 +5699,6 @@
   },
   {
     "level": "10",
-    "title": "Rainy [Runother]",
-    "artist": "Yu^ta obj:K-SPIN",
-    "md5": "af4a2231ed7c21fe28f5c9353775be39",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
-    "url_diff": "https://web.archive.org/web/20180608030934if_/http://kspinbms.web.fc2.com/insane/_05_rainy-runo.bms",
-    "constant": "10.94",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★10"
-  },
-  {
-    "level": "10",
     "title": "F13 [END]",
     "artist": "Judah BGA:Lucifer obj:1/8",
     "md5": "00b4a7cacb64ccd3b6e377699c914075",
@@ -5710,11 +5710,11 @@
   },
   {
     "level": "10",
-    "title": "dreamy traveler [NIGHTMARE7]",
-    "artist": "ノア",
-    "md5": "9d96062e99f3cc079d9e93fff7a4a597",
-    "url": "http://web.archive.org/web/20071120113335/http://www.bisuke.biz/~mikodjhiro/b_hpy/dreamy_traveler_ogg.rar",
-    "url_diff": "",
+    "title": "Rainy [Runother]",
+    "artist": "Yu^ta obj:K-SPIN",
+    "md5": "af4a2231ed7c21fe28f5c9353775be39",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=98",
+    "url_diff": "https://web.archive.org/web/20180608030934if_/http://kspinbms.web.fc2.com/insane/_05_rainy-runo.bms",
     "constant": "10.95",
     "source_table": "発狂BMS難易度表",
     "source_level": "★10"
@@ -5729,6 +5729,17 @@
     "constant": "10.96",
     "source_table": "発狂BMS難易度表",
     "source_level": "★11"
+  },
+  {
+    "level": "10",
+    "title": "dreamy traveler [NIGHTMARE7]",
+    "artist": "ノア",
+    "md5": "9d96062e99f3cc079d9e93fff7a4a597",
+    "url": "http://web.archive.org/web/20071120113335/http://www.bisuke.biz/~mikodjhiro/b_hpy/dreamy_traveler_ogg.rar",
+    "url_diff": "",
+    "constant": "10.96",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★10"
   },
   {
     "level": "10",
@@ -5754,17 +5765,6 @@
   },
   {
     "level": "11",
-    "title": "スプラッシュコード－０６ [ANOTHER7]",
-    "artist": "ねこひめたん",
-    "md5": "9b265e43a7667f024559287c43eda865",
-    "url": "https://d11x.sakura.ne.jp/bms/curryyojo_Splashcode.rar",
-    "url_diff": "",
-    "constant": "11.02",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★9"
-  },
-  {
-    "level": "11",
     "title": "旧地獄街道を行く ～反逆のパルスィ～ [MANIAC]",
     "artist": "上杉うた / air",
     "md5": "ba08b17833c353184fb8c42412985b5b",
@@ -5773,6 +5773,17 @@
     "constant": "11.02",
     "source_table": "発狂BMS難易度表",
     "source_level": "★11"
+  },
+  {
+    "level": "11",
+    "title": "スプラッシュコード－０６ [ANOTHER7]",
+    "artist": "ねこひめたん",
+    "md5": "9b265e43a7667f024559287c43eda865",
+    "url": "https://d11x.sakura.ne.jp/bms/curryyojo_Splashcode.rar",
+    "url_diff": "",
+    "constant": "11.03",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★9"
   },
   {
     "level": "11",
@@ -5913,7 +5924,7 @@
     "md5": "f9e26ca79a88891e801173e3b9a172d1",
     "url": "http://www1.axfc.net/uploader/He/so/355552",
     "url_diff": "http://web.archive.org/web/20190215151629/http://www.geocities.jp/musicmakeman/sabun.html",
-    "constant": "11.26",
+    "constant": "11.27",
     "source_table": "発狂BMS難易度表",
     "source_level": "★11"
   },
@@ -5941,17 +5952,6 @@
   },
   {
     "level": "11",
-    "title": "Endless Journey [7key//End]",
-    "artist": "LV.4/A-zert",
-    "md5": "62453557cd63363c29f3b2b4324bd462",
-    "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
-    "url_diff": "https://web.archive.org/web/20080128211008/http://www.geocities.jp/azerty1s/pagetwo.html",
-    "constant": "11.30",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★10"
-  },
-  {
-    "level": "11",
     "title": "ヒメタイプ [F]",
     "artist": "ノクティス・江口・チェラム obj:Fender",
     "md5": "0e0619de679eb29af0ec907673e13d18",
@@ -5960,6 +5960,17 @@
     "constant": "11.30",
     "source_table": "発狂BMS難易度表",
     "source_level": "★11"
+  },
+  {
+    "level": "11",
+    "title": "Endless Journey [7key//End]",
+    "artist": "LV.4/A-zert",
+    "md5": "62453557cd63363c29f3b2b4324bd462",
+    "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "url_diff": "https://web.archive.org/web/20080128211008/http://www.geocities.jp/azerty1s/pagetwo.html",
+    "constant": "11.31",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★10"
   },
   {
     "level": "11",
@@ -6067,7 +6078,7 @@
     "md5": "c2355e8a6983f790c425ec41434b3752",
     "url": "http://web.archive.org/web/20050921000709/http://snowdrop-white.hp.infoseek.co.jp/music.html",
     "url_diff": "http://nick.xxxxxxxx.jp/",
-    "constant": "11.56",
+    "constant": "11.57",
     "source_table": "発狂BMS難易度表",
     "source_level": "★11"
   },
@@ -6111,7 +6122,7 @@
     "md5": "d55e006869726798b8ac06723c9c3f6b",
     "url": "http://necoco.2-d.jp/",
     "url_diff": "http://mew.bake-neko.net/bms/sabun.html",
-    "constant": "11.70",
+    "constant": "11.71",
     "source_table": "発狂BMS難易度表",
     "source_level": "★11"
   },
@@ -6221,7 +6232,7 @@
     "md5": "cf065a021b5ac6277d32ba6b212901e3",
     "url": "https://mega.nz/#!oElU1Yga!iCO0WKycjCfD1-PkDTZAIsDydfKzCq4u_q8j6Urij68",
     "url_diff": "http://www.geocities.jp/dsks5456/bms.html",
-    "constant": "11.93",
+    "constant": "11.94",
     "source_table": "発狂BMS難易度表",
     "source_level": "★12"
   },
@@ -6249,22 +6260,22 @@
   },
   {
     "level": "11",
-    "title": "Tuk Tuk Boshi [7keys Crescent]",
-    "artist": "Shaman Cure-All / obj : cieu",
-    "md5": "683340fac1d376bea11c0848531ed6dd",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/IMtWiAob",
-    "url_diff": "http://cieu.web.fc2.com/",
+    "title": "Mirage Imitation [超音速 時間旅行]",
+    "artist": "はがね / bga:白助 obj.Triforce_BK",
+    "md5": "5259008702ce6b6dd6919ce4d6dccf2b",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=101",
+    "url_diff": "http://beatkim.web.fc2.com/",
     "constant": "11.97",
     "source_table": "発狂BMS難易度表",
     "source_level": "★12"
   },
   {
     "level": "11",
-    "title": "Mirage Imitation [超音速 時間旅行]",
-    "artist": "はがね / bga:白助 obj.Triforce_BK",
-    "md5": "5259008702ce6b6dd6919ce4d6dccf2b",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=101",
-    "url_diff": "http://beatkim.web.fc2.com/",
+    "title": "Tuk Tuk Boshi [7keys Crescent]",
+    "artist": "Shaman Cure-All / obj : cieu",
+    "md5": "683340fac1d376bea11c0848531ed6dd",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/IMtWiAob",
+    "url_diff": "http://cieu.web.fc2.com/",
     "constant": "11.98",
     "source_table": "発狂BMS難易度表",
     "source_level": "★12"
@@ -6485,7 +6496,7 @@
     "md5": "bcf58042dd33f7ae0a17466f1fdc7313",
     "url": "https://web.archive.org/web/20190223220746/http://black-funeral.kill.jp/Quad_Queens.zip",
     "url_diff": "",
-    "constant": "12.29",
+    "constant": "12.30",
     "source_table": "発狂BMS難易度表",
     "source_level": "★12"
   },
@@ -6513,17 +6524,6 @@
   },
   {
     "level": "12",
-    "title": "AcceptAdvent-Border of Life- (乱れ咲き)",
-    "artist": "sun3",
-    "md5": "f01c2401b6c6e8e73e9e8a3a6c96e5b9",
-    "url": "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "constant": "12.37",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★12"
-  },
-  {
-    "level": "12",
     "title": "クロートーと星の観測者 [MANIAC]",
     "artist": "しーけー obj.me$o",
     "md5": "4c1ca130592c2b0d1bd0b55cceb94f5c",
@@ -6535,12 +6535,23 @@
   },
   {
     "level": "12",
+    "title": "AcceptAdvent-Border of Life- (乱れ咲き)",
+    "artist": "sun3",
+    "md5": "f01c2401b6c6e8e73e9e8a3a6c96e5b9",
+    "url": "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "constant": "12.38",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★12"
+  },
+  {
+    "level": "12",
     "title": "Ms.Naive Princess [RAFFLESIA]",
     "artist": "xenothium obj.kei",
     "md5": "1f5cf9788ce30603c5ffe261f55d6c3d",
     "url": "http://wayback.archive.org/web/20140803145510/http://roaraddiction.mods.jp/bms/x006_mnp_ogg.rar",
     "url_diff": "",
-    "constant": "12.42",
+    "constant": "12.43",
     "source_table": "発狂BMS難易度表",
     "source_level": "★12"
   },
@@ -6826,7 +6837,7 @@
     "md5": "7914f4ececa1ca873ad20a2f26ae258d",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=123&event=96",
     "url_diff": "http://www.dropbox.com/s/1kskv1w498ojnti/_angelwingfeli_1to24bms_FendervsELIGOS_go.bme?dl=1",
-    "constant": "13.08",
+    "constant": "13.09",
     "source_table": "発狂BMS難易度表",
     "source_level": "★13"
   },
@@ -7459,21 +7470,21 @@
   },
   {
     "level": "14",
-    "title": "corneal",
-    "artist": "SP-#",
-    "md5": "bf7e6824976fd0c9c24a2d85228f5d28",
-    "url": "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=48&order=reg&odtype=a",
+    "title": "Party 4U (EXTREME)",
+    "artist": "cranky / obj: black train",
+    "md5": "365ed4ea99075381e02d17a30ce515a0",
+    "url": "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
     "url_diff": "",
-    "constant": "14.20",
+    "constant": "14.21",
     "source_table": "発狂BMS難易度表",
     "source_level": "★13"
   },
   {
     "level": "14",
-    "title": "Party 4U (EXTREME)",
-    "artist": "cranky / obj: black train",
-    "md5": "365ed4ea99075381e02d17a30ce515a0",
-    "url": "http://skydrive.live.com/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "title": "corneal",
+    "artist": "SP-#",
+    "md5": "bf7e6824976fd0c9c24a2d85228f5d28",
+    "url": "http://k-bms.com/party_pabat/party2014.jsp?board_num=11&num=48&order=reg&odtype=a",
     "url_diff": "",
     "constant": "14.21",
     "source_table": "発狂BMS難易度表",
@@ -7596,7 +7607,7 @@
     "md5": "e10f3dbc3b3625b9c65d0c9b7ae61f33",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=96",
     "url_diff": "http://akred.web.fc2.com/ak-red-new.html",
-    "constant": "14.39",
+    "constant": "14.40",
     "source_table": "発狂BMS難易度表",
     "source_level": "★14"
   },
@@ -7728,7 +7739,7 @@
     "md5": "b80186ff8eca822332ca318073ff373f",
     "url": "https://web.archive.org/web/20200311125645/http://bof2012bfg.web.fc2.com/nowcanyouclear.html",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up5121.zip",
-    "constant": "14.78",
+    "constant": "14.79",
     "source_table": "発狂BMS難易度表",
     "source_level": "★14"
   },
@@ -8003,7 +8014,7 @@
     "md5": "73aecc2131974a2042895818a0204c1e",
     "url": "http://gmtn.sub.jp/",
     "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "constant": "15.26",
+    "constant": "15.25",
     "source_table": "発狂BMS難易度表",
     "source_level": "★14"
   },
@@ -8372,6 +8383,17 @@
   },
   {
     "level": "16",
+    "title": "Meaning of Existence [OVERHEAT]",
+    "artist": "TKR/obj_jakko BGA:seizan",
+    "md5": "0216b6514a1648c25f0cfc5eb8f83974",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=95",
+    "url_diff": "https://www.dropbox.com/s/0cqhfbo3lae5m6h/MoE_nicheOVER.lzh?dl=0",
+    "constant": "16.13",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★17"
+  },
+  {
+    "level": "16",
     "title": "Quickening 2 the RED -Sephirothic-",
     "artist": "Loki-mitsu + Mentalstock あ",
     "md5": "05eda314989c59f315fe8f2ff2d6c7e9",
@@ -8380,17 +8402,6 @@
     "constant": "16.13",
     "source_table": "発狂BMS難易度表",
     "source_level": "★16"
-  },
-  {
-    "level": "16",
-    "title": "Meaning of Existence [OVERHEAT]",
-    "artist": "TKR/obj_jakko BGA:seizan",
-    "md5": "0216b6514a1648c25f0cfc5eb8f83974",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=95",
-    "url_diff": "https://www.dropbox.com/s/0cqhfbo3lae5m6h/MoE_nicheOVER.lzh?dl=0",
-    "constant": "16.14",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★17"
   },
   {
     "level": "16",
@@ -8410,7 +8421,7 @@
     "md5": "34477cc17921837cb65f5bff8d53f55c",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=88",
     "url_diff": "http://ctconnected.blog.fc2.com/blog-entry-1.html",
-    "constant": "16.21",
+    "constant": "16.22",
     "source_table": "発狂BMS難易度表",
     "source_level": "★15"
   },
@@ -8498,7 +8509,7 @@
     "md5": "77d524e329aec47f2e17aff8517671af",
     "url": "http://web.archive.org/web/20080227014728/http://bof.nothing.sh/bof2005/de_nekiest_shanghai.zip",
     "url_diff": "http://www.geocities.jp/minomusiwokokoronisoete/",
-    "constant": "16.41",
+    "constant": "16.42",
     "source_table": "発狂BMS難易度表",
     "source_level": "★14"
   },
@@ -8861,7 +8872,7 @@
     "md5": "c6599ae9e57756c33d031b4f622324c8",
     "url": "http://web.archive.org/web/20130427145910/http://tsubu.ath.cx/~ssry/music.htm",
     "url_diff": "http://nekokan.dyndns.info/~lobsak/hokan/hokan1.html",
-    "constant": "17.16",
+    "constant": "17.17",
     "source_table": "発狂BMS難易度表",
     "source_level": "★17"
   },
@@ -9087,17 +9098,6 @@
   },
   {
     "level": "17",
-    "title": "Kreuz [Jesus†Christus]",
-    "artist": "sky_delta / obj.swa",
-    "md5": "eefef4918e837ceaacba873c5214b807",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96",
-    "url_diff": "http://swamelo.web.fc2.com/_kreuz_spsls.bms",
-    "constant": "17.71",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★18"
-  },
-  {
-    "level": "17",
     "title": "la noche (MANIAQ)",
     "artist": "NAGI / black train",
     "md5": "fed9367fc6e365a1c50d3d9a46a7af8b",
@@ -9109,12 +9109,23 @@
   },
   {
     "level": "17",
+    "title": "Kreuz [Jesus†Christus]",
+    "artist": "sky_delta / obj.swa",
+    "md5": "eefef4918e837ceaacba873c5214b807",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96",
+    "url_diff": "http://swamelo.web.fc2.com/_kreuz_spsls.bms",
+    "constant": "17.72",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★18"
+  },
+  {
+    "level": "17",
     "title": "Amphisbaena [Fallen Heavens]",
     "artist": "光吉猛修の兄 obj:Fender vs 秘密",
     "md5": "0881e7b2985d4e4ed347a6be5a05cc94",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=104",
     "url_diff": "http://absolute.pv.land.to/bof/src/up0943.rar",
-    "constant": "17.76",
+    "constant": "17.77",
     "source_table": "発狂BMS難易度表",
     "source_level": "★18"
   },
@@ -9224,7 +9235,7 @@
     "md5": "d1857c880459078f3b7d6523795f40ba",
     "url": "http://tm2.toymusical.net/download.html",
     "url_diff": "https://onedrive.live.com/?cid=CE1DD07774D515B4&id=CE1DD07774D515B4!241",
-    "constant": "18.25",
+    "constant": "18.26",
     "source_table": "発狂BMS難易度表",
     "source_level": "★18"
   },
@@ -9290,7 +9301,7 @@
     "md5": "7016b1dea6ac08bc60783d23d4f099a4",
     "url": "http://beatmaniauet.sakura.ne.jp/BMS/orihime_Everlasting_love_rmx_ogg.rar",
     "url_diff": "",
-    "constant": "18.51",
+    "constant": "18.52",
     "source_table": "発狂BMS難易度表",
     "source_level": "★19"
   },
@@ -9301,7 +9312,7 @@
     "md5": "d7b6fffc45e0f7e4177774da6ba8812e",
     "url": "https://web.archive.org/web/20130424171703/http://ninjaactionteam.sakura.ne.jp/sakuhin_bms.html",
     "url_diff": "http://nekokan.dyndns.info/~lobsak/hokan/showguts_7EX.lzh",
-    "constant": "18.52",
+    "constant": "18.53",
     "source_table": "発狂BMS難易度表",
     "source_level": "★18"
   },
@@ -9329,17 +9340,6 @@
   },
   {
     "level": "18",
-    "title": "dimension block ＾＾",
-    "artist": "Is-m / obj:BOKKI BGA:sta",
-    "md5": "46f0cc113e03fbd500769087fe94bcdc",
-    "url": "http://www.is-m.jp/bms/song/em39.html",
-    "url_diff": "https://web.archive.org/web/20190114074543/http://www.geocities.jp/bokki_chinpoman/sabun.html",
-    "constant": "18.54",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★18"
-  },
-  {
-    "level": "18",
     "title": "electric butterfly [yumether]",
     "artist": "養土卵 光 / 浜 柔好 / obj:劉 芽留",
     "md5": "2ac598184092702e891cdaa48b92dd76",
@@ -9356,6 +9356,17 @@
     "md5": "ce8daddb4ec773e9e2d1d8a20de18ea0",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=102",
     "url_diff": "",
+    "constant": "18.55",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★18"
+  },
+  {
+    "level": "18",
+    "title": "dimension block ＾＾",
+    "artist": "Is-m / obj:BOKKI BGA:sta",
+    "md5": "46f0cc113e03fbd500769087fe94bcdc",
+    "url": "http://www.is-m.jp/bms/song/em39.html",
+    "url_diff": "https://web.archive.org/web/20190114074543/http://www.geocities.jp/bokki_chinpoman/sabun.html",
     "constant": "18.55",
     "source_table": "発狂BMS難易度表",
     "source_level": "★18"
@@ -9422,7 +9433,7 @@
     "md5": "273965c4669994761c71c0da25a49c6f",
     "url": "http://www.dropbox.com/s/fuf4rcsnzq75vxz/EXCITECH%20-%20Hypertext%20Transfer%20Protocol%20%28HQ%20OGG%29.zip",
     "url_diff": "https://app.box.com/s/x2muutynyc0w0w1ow64u",
-    "constant": "18.70",
+    "constant": "18.71",
     "source_table": "発狂BMS難易度表",
     "source_level": "★19"
   },
@@ -9433,7 +9444,7 @@
     "md5": "81d024c13fed9c35362435f58c9e57d5",
     "url": "http://estish.nobody.jp/",
     "url_diff": "http://drowsy.hannnari.com/index.html",
-    "constant": "18.71",
+    "constant": "18.72",
     "source_table": "発狂BMS難易度表",
     "source_level": "★18"
   },
@@ -9499,7 +9510,7 @@
     "md5": "57d10637d8bf9da1240060af6bd38c9d",
     "url": "http://tm2.toymusical.net/",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up0279.rar",
-    "constant": "18.89",
+    "constant": "18.90",
     "source_table": "発狂BMS難易度表",
     "source_level": "★19"
   },
@@ -9813,17 +9824,6 @@
   },
   {
     "level": "19",
-    "title": "ピアノ狂騒曲第壱番「滅宴」 (KF7)",
-    "artist": "にんにくマニア",
-    "md5": "2b0fd2e97e6458239a9c66b6031defed",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=60",
-    "url_diff": "",
-    "constant": "19.89",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★20"
-  },
-  {
-    "level": "19",
     "title": "resta del tramonto",
     "artist": "noctie* obj.XYZ",
     "md5": "c8aea3721acb931e5864268957b2e99b",
@@ -9832,6 +9832,17 @@
     "constant": "19.90",
     "source_table": "発狂BMS難易度表",
     "source_level": "★19"
+  },
+  {
+    "level": "19",
+    "title": "ピアノ狂騒曲第壱番「滅宴」 (KF7)",
+    "artist": "にんにくマニア",
+    "md5": "2b0fd2e97e6458239a9c66b6031defed",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=60",
+    "url_diff": "",
+    "constant": "19.90",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★20"
   },
   {
     "level": "19",
@@ -9928,7 +9939,7 @@
     "md5": "993b15d873cde2232c04b4f35a100e81",
     "url": "http://onedrive.live.com/?authkey=!ADvMXwm4rhPTWnI&id=FC95A680740CA8C9!111&cid=FC95A680740CA8C9",
     "url_diff": "http://xki.is.land.to/bms/sabun.html",
-    "constant": "20.21",
+    "constant": "20.22",
     "source_table": "発狂BMS難易度表",
     "source_level": "★20"
   },
@@ -9945,22 +9956,22 @@
   },
   {
     "level": "20",
-    "title": "弦月の猫 [EX]",
-    "artist": "ねこみみ魔法使い for 御庭つみき / obj:Ds BGA:石王マサト",
-    "md5": "18c6674e6ddf4e341d6ad6e6d9936365",
-    "url": "https://drive.google.com/file/d/1NFfQgoP7-zR-ieY3OnvKf9v0THpyB3vU/view?usp=drive_link",
-    "url_diff": "http://sagena.harisen.jp/bms.html",
-    "constant": "20.30",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★20"
-  },
-  {
-    "level": "20",
     "title": "モノリスの園 [FRIDAY]",
     "artist": "LOKI / obj:JEYSON",
     "md5": "09e33fbf26546d9ab4219ae828b03d67",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=54",
     "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "constant": "20.31",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★20"
+  },
+  {
+    "level": "20",
+    "title": "弦月の猫 [EX]",
+    "artist": "ねこみみ魔法使い for 御庭つみき / obj:Ds BGA:石王マサト",
+    "md5": "18c6674e6ddf4e341d6ad6e6d9936365",
+    "url": "https://drive.google.com/file/d/1NFfQgoP7-zR-ieY3OnvKf9v0THpyB3vU/view?usp=drive_link",
+    "url_diff": "http://sagena.harisen.jp/bms.html",
     "constant": "20.31",
     "source_table": "発狂BMS難易度表",
     "source_level": "★20"
@@ -10181,7 +10192,7 @@
     "md5": "7a8b1a11f82d2d97b45f794812369610",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=88",
     "url_diff": "",
-    "constant": "20.96",
+    "constant": "20.97",
     "source_table": "発狂BMS難易度表",
     "source_level": "★21"
   },
@@ -10192,7 +10203,7 @@
     "md5": "e781889d3268495168988a547ac6269e",
     "url": "http://electro-planet.net/loveplus/",
     "url_diff": "http://akred.web.fc2.com/baecon/gorillante.bme",
-    "constant": "20.96",
+    "constant": "20.97",
     "source_table": "初代/第二期Overjoy",
     "source_level": "★★1"
   },
@@ -10297,23 +10308,12 @@
   },
   {
     "level": "21",
-    "title": "Little \"Sister\" Bitch",
-    "artist": "t+pazolite",
-    "md5": "55252fa3daaeb2dff8cfc3204c647fdf",
-    "url": "http://sunaneko.iptime.org/BMS_Library/Little%20%ef%bc%82Sister%ef%bc%82%20Bitch%20%28by%20t%2bpazolite%29.rar",
-    "url_diff": "http://page.freett.com/lobsak/hokan1.html",
-    "constant": "21.19",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★22"
-  },
-  {
-    "level": "21",
     "title": "Little Wizard -imaginary satellite-",
     "artist": "Yosk! obj:緒方智絵里 vs 秘密",
     "md5": "6907561b925f74064b723122bda63fe5",
     "url": "https://drive.google.com/open?id=0B7qCw4hNijr4eEtvWW5nQi16R2M",
     "url_diff": "http://akred.web.fc2.com/baecon/Little_Wizard-imaginary-satellite-.bme",
-    "constant": "21.20",
+    "constant": "21.21",
     "source_table": "発狂BMS難易度表",
     "source_level": "★21"
   },
@@ -10379,7 +10379,7 @@
     "md5": "928f2942dcedd1163bce24e4bf894b2d",
     "url": "https://web.archive.org/web/20160330034133/http://big.freett.com/iidxbanzai/xecus.rar",
     "url_diff": "https://web.archive.org/web/20160327131150/http://freett.com/iidxbanzai/xecus_ecs.rar",
-    "constant": "21.30",
+    "constant": "21.31",
     "source_table": "初代/第二期Overjoy",
     "source_level": "★★1"
   },
@@ -10500,7 +10500,7 @@
     "md5": "246fb64792ed33f8c9b6b35587cecbb5",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=98",
     "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
-    "constant": "21.45",
+    "constant": "21.46",
     "source_table": "発狂BMS難易度表",
     "source_level": "★21"
   },
@@ -10522,7 +10522,7 @@
     "md5": "a997b4d3d0c594fb5f5b09695f1e86df",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=61",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up1651.zip",
-    "constant": "21.48",
+    "constant": "21.49",
     "source_table": "初代/第二期Overjoy",
     "source_level": "★★1"
   },
@@ -10687,7 +10687,7 @@
     "md5": "79dc444b48299814462ff23a2bf3ab79",
     "url": "https://web.archive.org/web/20120320105728/http://placase.bms.ms/data/bms/pla_futago.rar",
     "url_diff": "https://web.archive.org/web/20190329105351/http://www.geocities.jp/minomusiwokokoronisoete/bmssabun.html",
-    "constant": "21.83",
+    "constant": "21.84",
     "source_table": "発狂BMS難易度表",
     "source_level": "★20"
   },
@@ -10825,17 +10825,6 @@
   },
   {
     "level": "22",
-    "title": "四十五年ノ雪桜 [EX]",
-    "artist": "kozato /kody / air",
-    "md5": "c73bdb3e4bb30bf452998c1fb76cedac",
-    "url": "http://pwsl.sakura.ne.jp/?page_id=7",
-    "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
-    "constant": "22.13",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★22"
-  },
-  {
-    "level": "22",
     "title": "トココ21 [funny]",
     "artist": "妻コロッケ / obj:firi.",
     "md5": "9092b66c055e1a5feef481899991095b",
@@ -10847,14 +10836,14 @@
   },
   {
     "level": "22",
-    "title": "Lucifuge Rofocale (^ω^)",
-    "artist": "L-Mys/obj:BOKKI",
-    "md5": "cdc252edc57cdb4018dbeb46fda6a3c3",
-    "url": "https://onedrive.live.com/?cid=CA7A5144414EC4CA&id=CA7A5144414EC4CA%21405",
-    "url_diff": "https://web.archive.org/web/20190114074543/http://www.geocities.jp/bokki_chinpoman/sabun.html",
-    "constant": "22.15",
+    "title": "四十五年ノ雪桜 [EX]",
+    "artist": "kozato /kody / air",
+    "md5": "c73bdb3e4bb30bf452998c1fb76cedac",
+    "url": "http://pwsl.sakura.ne.jp/?page_id=7",
+    "url_diff": "http://nekokan.dyndns.info/~lobsak/bms/repair_pack.zip",
+    "constant": "22.14",
     "source_table": "発狂BMS難易度表",
-    "source_level": "★21"
+    "source_level": "★22"
   },
   {
     "level": "22",
@@ -10866,6 +10855,17 @@
     "constant": "22.15",
     "source_table": "発狂BMS難易度表",
     "source_level": "★22"
+  },
+  {
+    "level": "22",
+    "title": "Lucifuge Rofocale (^ω^)",
+    "artist": "L-Mys/obj:BOKKI",
+    "md5": "cdc252edc57cdb4018dbeb46fda6a3c3",
+    "url": "https://onedrive.live.com/?cid=CA7A5144414EC4CA&id=CA7A5144414EC4CA%21405",
+    "url_diff": "https://web.archive.org/web/20190114074543/http://www.geocities.jp/bokki_chinpoman/sabun.html",
+    "constant": "22.16",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★21"
   },
   {
     "level": "22",
@@ -11039,7 +11039,7 @@
     "md5": "bda8cb9c0bc624fb90082b30332ec2f4",
     "url": "http://leucine.web.fc2.com/",
     "url_diff": "http://absolute.pv.land.to/uploader/src/up6316.zip",
-    "constant": "22.47",
+    "constant": "22.48",
     "source_table": "発狂BMS難易度表",
     "source_level": "★21"
   },
@@ -11298,17 +11298,6 @@
   },
   {
     "level": "23",
-    "title": "Black Lotus [PING]",
-    "artist": "wa. / 百舌谷 obj: PING",
-    "md5": "e862d41db4532275e322327fed6909cc",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
-    "url_diff": "https://web.archive.org/web/20170201215844/http://gnqg.rosx.net/upload/upl/1ciru4fLTwWgrGodxpEG/00416.zip",
-    "constant": "23.05",
-    "source_table": "発狂BMS難易度表",
-    "source_level": "★22"
-  },
-  {
-    "level": "23",
     "title": "VG (Radio Edit) [Hide]",
     "artist": "ねこみりん / Apollo Sampling Machine feat.ilder×焔すばる / obj:秘密",
     "md5": "7ebdaafa1f1cb1d9c079ae74f5a0b614",
@@ -11328,6 +11317,17 @@
     "constant": "23.05",
     "source_table": "第二期Overjoy",
     "source_level": "★★2"
+  },
+  {
+    "level": "23",
+    "title": "Black Lotus [PING]",
+    "artist": "wa. / 百舌谷 obj: PING",
+    "md5": "e862d41db4532275e322327fed6909cc",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
+    "url_diff": "https://web.archive.org/web/20170201215844/http://gnqg.rosx.net/upload/upl/1ciru4fLTwWgrGodxpEG/00416.zip",
+    "constant": "23.06",
+    "source_table": "発狂BMS難易度表",
+    "source_level": "★22"
   },
   {
     "level": "23",
