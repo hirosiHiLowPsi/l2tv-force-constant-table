@@ -1,7 +1,7 @@
 {
   "name": "L2TV FORCE RATE 譜面定数表",
   "symbol": "L",
-  "dataUrl": "local:data/force-constant-table.json",
+  "dataUrl": "https://script.google.com/macros/s/AKfycby2gF01GNWtaOE7NRUzpnL48ct6wfB9MsNRvJU2cRgk1ST1VE3-kxsuLUyPIa0U-D2L/exec",
   "siteDescription": "L2TV FORCE RATEの譜面定数をL1からL27に分類したBMS難易度表です。",
   "lightTheme": "light",
   "darkTheme": "dark",
